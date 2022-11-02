@@ -10,4 +10,6 @@
 
 ## My Top Languages 
 
+![Anurag's GitHub stats](https://github-readme-stats-9po8o8t7y-zackjohnson1.vercel.app/api?username=anuraghazra&count_private=true)
+
 [![Top Langs](https://github-readme-stats-9po8o8t7y-zackjohnson1.vercel.app/api/top-langs/?username=ZackJohnson1&theme=midnight-purple)](https://github.com/ZackJohnson1/github-readme-stats)

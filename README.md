@@ -2,9 +2,9 @@
 
 ## I'm a student, trader and developer!
 
-- 🌱 Interests: Computer science, programming, maths, creative code, poker, game theory, trading, geopolitics and history. 
-- 🎾 Hobbies: Tennis, fitness, surfing, 90s video games and writing.
-- 🥅 2022 Goals: Be better.
+- 🌱 Interests: Computer science, programming, maths, creative code, poker, game theory, trading, geopolitics and history 
+- 🎾 Hobbies: Tennis, fitness, surfing, 90s video games and writing
+- 🥅 2022 Goals: Be better
 - ⚡ Vires in Numeris ⚡
 - 🔆 Sapere aude 🔆
 

@@ -10,6 +10,6 @@
 
 ## My Top Languages 
 
-![Zack's GitHub stats](https://github-readme-stats-9po8o8t7y-zackjohnson1.vercel.app/api?username=ZackJohnson1&theme=midnight-purple&count_private=true)
+![Zack's GitHub stats](https://github-readme-stats-blush-chi.vercel.app/api?username=ZackJohnson1&theme=midnight-purple&count_private=true)
 
-[![Top Langs](https://github-readme-stats-9po8o8t7y-zackjohnson1.vercel.app/api/top-langs/?username=ZackJohnson1&theme=midnight-purple)](https://github.com/ZackJohnson1/github-readme-stats)
+[![Top Langs](https://github-readme-stats-blush-chi.vercel.app/api/top-langs/?username=ZackJohnson1&theme=midnight-purple)](https://github.com/ZackJohnson1/github-readme-stats)

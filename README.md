@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there, I'm Zack Johnson👋 
 
-<!--
-**ZackJohnson1/ZackJohnson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a student, trader and developer!
 
-Here are some ideas to get you started:
+- 🌱 Interests: Computer science, programming, maths, creative code, poker, game theory, trading, geopolitics and history. 
+- 🎾 Hobbies: Tennis, fitness, surfing, 90s video games and writing.
+- 🥅 2022 Goals: Be better.
+- ⚡ Vires in Numeris ⚡
+- 🔆 Sapere aude 🔆
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Top Languages 
+
+[![Top Langs](https://github-readme-stats-9po8o8t7y-zackjohnson1.vercel.app/api/top-langs/?username=ZackJohnson1&theme=midnight-purple)](https://github.com/ZackJohnson1/github-readme-stats)

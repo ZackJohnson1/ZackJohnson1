@@ -1,6 +1,6 @@
 # Hi there, I'm Zack Johnson👋 
 
-## I'm a student, trader and developer!
+## I'm a student, trader and programmer!
 
 - 🌱 Interests: Computer science, programming, maths, creative code, poker, game theory, trading, geopolitics and history 
 - 🎾 Hobbies: Tennis, fitness, surfing, 90s video games and writing
@@ -8,7 +8,7 @@
 - ⚡ Vires in Numeris ⚡
 - 🔆 Sapere aude 🔆
 
-## My Top Languages 
+## My Stats 
 
 ![Zack's GitHub stats](https://github-readme-stats-blush-chi.vercel.app/api?username=ZackJohnson1&theme=midnight-purple&count_private=true)
 

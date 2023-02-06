@@ -8,8 +8,3 @@
 - ⚡ Vires in Numeris ⚡
 - 🔆 Sapere aude 🔆
 
-## My Stats 
-
-![Zack's GitHub stats](https://github-readme-stats-blush-chi.vercel.app/api?username=ZackJohnson1&theme=midnight-purple&count_private=true)
-
-[![Top Langs](https://github-readme-stats-blush-chi.vercel.app/api/top-langs/?username=ZackJohnson1&theme=midnight-purple)](https://github.com/ZackJohnson1/github-readme-stats)

@@ -8,3 +8,4 @@
 - ⚡ Vires in Numeris ⚡
 - 🔆 Sapere aude 🔆
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<ZackJohnson1>&layout=compact)](https://github.com/<ZackJohnson1>)
